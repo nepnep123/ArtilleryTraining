@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BINOCULARS
+  - WAY_POINT
+  - GASIN
+  - P96K
+  - BULLET_01
+  - BULLET_02
+  - BULLET_03
+  - InputModel
+  - VERTICAL_UP
+  - VERTICAL_DOWN
+  - HORIZONTAL_RIGHT
+  - HORIZONTAL_LEFT
+  - FxTemporaire
+  - TARGET
+  - TRIGGER
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - LOCATION
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

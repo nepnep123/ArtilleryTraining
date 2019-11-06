@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: e4165436f535940fba219e78cec29b2a
+timeCreated: 1503240813
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone.002_end
+    100010: Bone.003
+    100012: Bone.003_end
+    100014: Bone.004
+    100016: Bone.005
+    100018: Bone.005_end
+    100020: Bone.006
+    100022: Bone.007
+    100024: Bone.007_end
+    100026: Bone.008
+    100028: Bone.008_end
+    100030: Bone.009
+    100032: Bone.009_end
+    100034: Bone_end
+    100036: Cube.007
+    100038: GPVFX_Binocular Eyepiece L
+    100040: GPVFX_Binocular Eyepiece R
+    100042: GPVFX_Binocular Hull L
+    100044: GPVFX_Binocular Hull R
+    100046: GPVFX_Binocular Lens L
+    100048: GPVFX_Binocular Lens R
+    100050: //RootNode
+    100052: GPVFX_Binoculars Hinge A
+    100054: GPVFX_Binoculars Hinge B
+    100056: GPVFX_Binoculars Hinge C
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone.002_end
+    400010: Bone.003
+    400012: Bone.003_end
+    400014: Bone.004
+    400016: Bone.005
+    400018: Bone.005_end
+    400020: Bone.006
+    400022: Bone.007
+    400024: Bone.007_end
+    400026: Bone.008
+    400028: Bone.008_end
+    400030: Bone.009
+    400032: Bone.009_end
+    400034: Bone_end
+    400036: Cube.007
+    400038: GPVFX_Binocular Eyepiece L
+    400040: GPVFX_Binocular Eyepiece R
+    400042: GPVFX_Binocular Hull L
+    400044: GPVFX_Binocular Hull R
+    400046: GPVFX_Binocular Lens L
+    400048: GPVFX_Binocular Lens R
+    400050: //RootNode
+    400052: GPVFX_Binoculars Hinge A
+    400054: GPVFX_Binoculars Hinge B
+    400056: GPVFX_Binoculars Hinge C
+    2300000: Cube.007
+    2300002: GPVFX_Binocular Eyepiece L
+    2300004: GPVFX_Binocular Eyepiece R
+    2300006: GPVFX_Binocular Hull L
+    2300008: GPVFX_Binocular Hull R
+    2300010: GPVFX_Binocular Lens L
+    2300012: GPVFX_Binocular Lens R
+    3300000: Cube.007
+    3300002: GPVFX_Binocular Eyepiece L
+    3300004: GPVFX_Binocular Eyepiece R
+    3300006: GPVFX_Binocular Hull L
+    3300008: GPVFX_Binocular Hull R
+    3300010: GPVFX_Binocular Lens L
+    3300012: GPVFX_Binocular Lens R
+    4300000: GPVFX_Binocular Eyepiece R
+    4300002: GPVFX_Binocular Hull R
+    4300004: GPVFX_Binocular Lens R
+    4300006: Cube.007
+    4300008: GPVFX_Binocular Eyepiece L
+    4300010: GPVFX_Binocular Hull L
+    4300012: GPVFX_Binoculars Hinge C
+    4300014: GPVFX_Binoculars Hinge A
+    4300016: GPVFX_Binoculars Hinge B
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: GPVFX_Binoculars Hinge A
+    13700002: GPVFX_Binoculars Hinge B
+    13700004: GPVFX_Binoculars Hinge C
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
