@@ -1,6 +1,8 @@
 # ArtilleryTraining
 Unity3D (VR Project) - ArtilleryTraining
 
+사용 도구 : Oculus Quest / Unity 2019.2.5f
+
 > 국방 프로젝트
 송영훈, 이호섭 
 
